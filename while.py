@@ -1,3 +1,4 @@
+#while adlah sebuah pengulangan, dan kalau ingin berhenti bisa pakai break
 while True:
     angka = input("pilih angka: ")
     if angka == "3":
